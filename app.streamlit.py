@@ -121,7 +121,7 @@ st.session_state.page = page
 # 主页面函数
 def home_page():
     # 中间内容
-    st.image("/home/aistudio/Interstellar_DreamWorks/star.jpg", use_column_width=True)
+    st.image("star.jpg", use_column_width=True)
 
     # 按钮
     st.markdown('<div class="buttons-container">', unsafe_allow_html=True)
