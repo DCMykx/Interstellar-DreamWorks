@@ -140,7 +140,7 @@ def home_page():
     with col4:
         if st.button('视频生成'):
             button_clicked = "video"
-
+    # 嵌入Dify应用
     # 按钮点击后显示网页内容
     if button_clicked == "knowledge":
         st.markdown('''
