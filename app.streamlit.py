@@ -192,9 +192,8 @@ def home_page():
         <div class="footer">
             <div>
                 <p>合作链接</p>
-                <p><a href="https://cloud.baidu.com/" target="_blank">百度智能云</a></p>
+                <p><a href="https://open.oppomobile.com/" target="_blank">OPPO开放平台</a></p>
                 <p><a href="http://www.jcph.com/" target="_blank">《十万个为什么》出版社</a></p>
-                <p><a href="https://ai.baidu.com/" target="_blank">百度AI开放平台</a></p>
             </div>
             <div>
                 <p>关于我们</p>
